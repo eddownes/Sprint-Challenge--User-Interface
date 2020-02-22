@@ -112,6 +112,118 @@ p {
     justify-content: center;
 }
 
+.box-1 {
+    width: 12.5%;
+    height: 100px;
+    background: teal;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-2{
+    width: 12.5%;
+    height: 100px;
+    background: gold;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-3 {
+    width: 12.5%;
+    height: 100px;
+    background: cadetblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-4 {
+    width: 12.5%;
+    height: 100px;
+    background: coral;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-5 {
+    width: 12.5%;
+    height: 100px;
+    background: crimson;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-6 {
+    width: 12.5%;
+    height: 100px;
+    background: forestgreen;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-7 {
+    width: 12.5%;
+    height: 100px;
+    background: darkorchid;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-8  {
+    width: 12.5%;
+    height: 100px;
+    background: hotpink;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-9 {
+    width: 12.5%;
+    height: 100px;
+    background: indigo;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-10 {
+    width: 12.5%;
+    height: 100px;
+    background: dodgerblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -143,4 +255,52 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+.header-section	{
+	display: flex;
+	justify-content: space-around;
+	padding: 25px 25px 25px 55px;
+}
+
+header a {
+	color: gray;
+    padding: 20px 20px 20px 20px;
+    text-decoration: none;
+}
+
+.header-image   {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 0px 0px 20px 0px;
+}
+
+.box-container  {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.box	{
+	width: 400px;
+	height: 400px;
+	padding: 20px 20px 20px 20px;	
+}
+
+.about-label    {
+    padding: 0px 0px 10px 20px; 
+}
+
+.about-paragraph    {
+    padding: 0px 0px 10px 20px; 
+}
+
+.together-label    {
+    padding: 30px 0px 10px 20px; 
+}
+
+.together-paragraph    {
+    padding: 0px 0px 30px 20px; 
 }
